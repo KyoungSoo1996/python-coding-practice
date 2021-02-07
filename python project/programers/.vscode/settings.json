@@ -1,0 +1,10 @@
+{
+    "editor.formatOnSave": true,
+    "debug.node.autoAttach": "on",
+    "python.linting.pylintEnabled": false,
+    "python.linting.enabled": true,
+    "python.linting.banditEnabled": false,
+    "python.linting.flake8Enabled": true,
+    "python.pythonPath": "E:\\Users\\wjdru\\Anaconda3\\python.exe",
+    "python.formatting.provider": "yapf"
+}
